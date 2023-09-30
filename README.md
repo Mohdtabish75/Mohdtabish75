@@ -1,0 +1,9 @@
+- 👋 Hello Dear, I’m @Mohdtabish75
+- 👀 I’m interested in myself,Becouse I am improve ourself in technology...
+- 🌱 I’m currently learning AI,ML,Core Java ...
+- 💞We love Technology....
+
+<!---
+Mohdtabish75/Mohdtabish75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
